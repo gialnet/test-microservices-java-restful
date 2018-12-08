@@ -60,9 +60,9 @@
                 <verbose>true</verbose>
                 <images>
                     <image>
-                        <name>demo/helloworld</name>
+                        <name>gialnet/servicea</name>
                         <build>
-                            <from>openjdk</from>
+                            <from>openjdk:8-alpine</from>
                             <tags>
                                 <tag>latest</tag>
                                 <tag>${project.version}</tag>

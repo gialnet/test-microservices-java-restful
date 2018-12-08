@@ -15,13 +15,13 @@ import java.util.Map;
 public class CheckVersion {
     Map<String, Object> response = new HashMap<String, Object>();
 
-    @RequestMapping(value = "/ckversion", method = RequestMethod.GET, produces = {"application/JSON"} )
+    @RequestMapping(value = "/serviceA", method = RequestMethod.GET, produces = {"application/JSON"} )
     public ResponseEntity<?> checkVersion(){
 
         response.clear();
         response.put("version", "1.0");
         response.put("status", "ok");
-        response.put("data",  "Version 2.0 Release August 2018" );
+        response.put("data",  "ServiceA Version 2.0 Release August 2018" );
         return new ResponseEntity<>(response, HttpStatus.OK);
     }
 }
