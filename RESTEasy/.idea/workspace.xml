@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5036e474-6393-46c0-9709-0fad863c6070" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simple-rest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-rest/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../simple-rest/src/main/java/com/vivaldispring/simplerest/controllers/CheckVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../simple-rest/src/main/java/com/vivaldispring/simplerest/controllers/CheckVersion.java" afterDir="false" />
-    </list>
+    <list default="true" id="5036e474-6393-46c0-9709-0fad863c6070" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +89,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="54" width="2055" height="978" extended-state="1" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
